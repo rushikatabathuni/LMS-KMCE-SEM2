@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ### 2. Enter your username and password when prompted to log in.
 ### 3. Follow the on-screen instructions to navigate through the menu options and perform various actions.
 ## Authors
-#### 1. K.RUSHI  [23P81A0528]
+#### 1. [K.RUSHI](https://github.com/rushikatabathuni)  [23P81A0528]
 
 #### 2. VIREN LOKA [23P81A6663]
 
