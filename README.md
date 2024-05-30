@@ -1,6 +1,5 @@
 # LIBRARY MANAGEMENT SYSTEM
 
-Foobar is a Python library for dealing with word pluralization.
 ## Project Description
 
 The Library Management System is a comprehensive command-line application designed to streamline the operations of a library. It provides an intuitive interface for managing books,and tracking book borrowing and returning activities.
