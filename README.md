@@ -27,10 +27,22 @@ The application also includes features such as user authentication with username
 * License
 
 ## 1.Features
+Detailed Menus are printed in every case.
 ### Login Page
-![](./images/your-image.png)
+![](./screenshots/login.png)
+### Main Menu
+![](./screenshots/mainmenu.png)
+### Book Menu
+![](./screenshots/bookmenu.png)
+### User Menu
+![](./screenshots/usermenu.png)
+### Update Student Details
+![](./screenshots/studentdetails.png)
 
-### Detailed Menus
+Printing Details of books in specific orders
+We can even update book details, student details.
+The code contails logs, in which we can see which user made what changes.
+We even used web scraping to extract the rating of books from `goodreads.com` and created a popularity quotient to arrange the books on these ratings.
 
 
 ## 2.Installation
