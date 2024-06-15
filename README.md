@@ -49,5 +49,3 @@ pip install -r requirements.txt
 #### 1. [K.RUSHI](https://github.com/rushikatabathuni)  [23P81A0528]
 
 #### 2. [VIREN LOKA](https://github.com/VirenLoka)[23P81A6663]
-
-#### 3. G SNEHITH [23P81A6727]
