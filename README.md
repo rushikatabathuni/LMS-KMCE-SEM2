@@ -19,22 +19,31 @@ The application also includes features such as user authentication with username
 
 ## Table of Contents
 
+* Features
 * Installation
 * Usage
 * Contributing
 * Credits
 * License
-## 1.Installation
+
+## 1.Features
+### Login Page
+![](./images/your-image.png)
+
+### Detailed Menus
+
+
+## 2.Installation
 ### Clone the Repository
 
 ```bash
  git clone https://github.com/rushikatabathuni/LMS-KMCE-SEM2
 ```
-## 2.Navigate to Directory
+## 3.Navigate to Directory
 ```bash
 cd <your directory>
 ```
-## 3.Install the Required Dependencies
+## 4.Install the Required Dependencies
 ```bash
 pip install -r requirements.txt
 ```
